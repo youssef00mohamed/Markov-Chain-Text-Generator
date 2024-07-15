@@ -27,19 +27,19 @@ To run the Markov chain text generation process, follow these steps:
    cd <repository-name>
    ```
 
-2.**Install the required dependencies:**
+2. **Install the required dependencies:**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3.**Run the script :**
+3. **Run the script :**
 
    ```bash
    jupyter notebook Markov Chain.ipynb
    ```
 
-4.**View Results**
+4. **View Results**
 
   - After executing the notebook, scroll through the notebook to view the generated text.
   - The generated sentences will be displayed inline with the code cells where they are generated.
