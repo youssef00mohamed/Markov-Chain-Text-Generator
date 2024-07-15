@@ -23,8 +23,8 @@ To run the Markov chain text generation process, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/youssef00mohamed/Markov-Chain-Text-Generator
+   cd Markov-Chain-Text-Generator
    ```
 
 2. **Install the required dependencies:**
